@@ -1,0 +1,8 @@
+#! /bin/bash
+
+mkdir $1
+cp -r base $1/base
+cp main.go $1
+cp go.mod $1
+cp Makefile $1
+
