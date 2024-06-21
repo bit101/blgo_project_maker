@@ -1,3 +1,5 @@
+deprecated. using https://github.com/bit101/tinfox
+
 # blgo_project_maker
 
 Simple utility to create a new blgo project.
